@@ -25,7 +25,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 
 # 📓 Meu aprendizado
 
-### 📌Variáveis
+### 📌 Variáveis
 > Variáveis são espaços  reservados  na  memória  do computador temporariamente para um determinado dado. 
 
 ```python
@@ -51,7 +51,7 @@ Variaveis.py
 ---
 
 
-### 📌Tomadas de decisão
+### 📌 Tomadas de decisão
   As decisões direcionam caso a condição testada é  `True` ou `False`. 
   
   Veja o exemplo de um código para uma sala de emergência em um hospital:
@@ -91,7 +91,7 @@ Há decisões compostas, encadeadas para ver mais exemplos de códigos
 
 ---
 
-### 📌Laços de repetições
+### 📌 Laços de repetições
 
 > Os laços de repetições servem para que uma ação seja repetida uma determinada ou indeterminada quantidade de vezes.
 
@@ -105,7 +105,7 @@ while numero<=100:
 print("Laço encerrado...")
 ```
 
-- **FOR** - parece com o `if`, porém com a diferença que executará o bloco de código inúmera vezes enquanto não for falsa.
+- **FOR** - geralmente usado quando você sabe o número de iterações necessárias para determinada operação.
 
 ```python
 # EXERCICIO DA TABUADA
@@ -122,6 +122,62 @@ for valor in range(1,11,1):
 - `range(1)` significa que variável iniciará com valor 1 em seguida até o valor que o usuário digitar;
 - por último ela será incrementada de 1 em 1.
 ---
+
+### 📌 Listas
+
+> Listas são estrutura de dados que armazenam uma coleção ordenada de itens.
+Elas são:
+- **Versáteis:** armazenam `tipos` de dados diferentes (int, strings, float, ...)
+- **Mutáveis:** podendo alterar, adicionar, excluir os elementos dinamicamente.
+- **Índice:** manipulação dos elementos individuais por meio de índices.
+- Além de possuir métodos embutidos, `append()`
+
+
+```python
+#lista preenchida estaticamente
+lista_estatica = ["String", True]
+
+#lista preenchida dinamicamente
+lista_dinamica = [input("Digite o usuário: "), bool(int(input("Está logado? ")))]
+
+#lista vazia
+lista_vazia=[]
+```
+> [!TIP]
+> Quer mais exemplos de exercícios? Veja aqui!
+
+---
+
+### 📌 Funções
+> Umas das suas vantagens é o **reaproveitamento de código e a modularização**, basicamente resolvemos o problema em partes, cada tarefa uma função.
+
+No Python o comando de função é o `def`
+
+```python
+
+#Exemplo de uma função
+
+def perguntar():
+    return input("\n--- MENU ----\n" +
+                 "<I> - Para Inserir um usuário\n" +
+                 "<P> - Para Pesquisar um usuário\n" +
+                 "<E> - Para Excluir um usuário\n" +
+                 "<L> - Para Listar um usuário\n" +
+                 "\n O que deseja realizar? ").upper()
+```
+
+O próximo passo é chamar as funções. Você pode criar um Python Package no Pycharm, contendo todas as funções que serão importadas.
+
+Em seguida crie um novo arquivo importando através dos comando `from` (local físico das funções) `import *` (importar todas as funções).
+
+> [!TIP]
+> Ficou com alguma dúvida veja esses exemplos.
+
+
+
+
+---
+
 
 ## 🛠 Ferramentas
 - Python 3.12.1
