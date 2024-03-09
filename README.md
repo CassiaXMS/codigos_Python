@@ -146,12 +146,16 @@ lista_vazia=[]
 > [!TIP]
 > Quer mais exemplos de exercícios? Veja aqui!
 
+A lista pode tornar ineficiente para operações de buscas, pois terá que percorrer todos os elementos (foreach)
+tornando o desempenho comprometido em comparação com outras estruturas de dados como os dicionários (veremos à frente).
+
 ---
 
 ### 📌 Funções
+
 > Umas das suas vantagens é o **reaproveitamento de código e a modularização**, basicamente resolvemos o problema em partes, cada tarefa uma função.
 
-No Python o comando de função é o `def`
+No Python, o comando de função é `def`
 
 ```python
 
@@ -173,8 +177,45 @@ Em seguida crie um novo arquivo importando através dos comando `from` (local f�
 > [!TIP]
 > Ficou com alguma dúvida veja esses exemplos.
 
+---
+
+### 📌 Dicionários
+
+**Quando utilizar a estrutura de dados de Dicionários?**
 
 
+ Dicionários armazenam objetos.
+
+ Cada objeto será dividido em **chaves-dados**:
+
+ - **chave** -  é justamente o identificador único do objeto.
+ 
+ - **dados** - são os dados da chave.
+
+ Como criar?
+ 
+```python
+#Criando Dicionario
+
+usuarios = { }
+print(usuarios)
+
+usuarios = {
+    "Well": ["Well Pierre", "24/01/2024", "Recep_01"], # o login é a chave
+    "luri": ["Luri Mah", "14/02/2024", "Raiox_03"]
+}
+print(usuarios)
+
+#Adicionar objetos
+usuarios["Nair"] = ["Nair Laira", "24/01/2024", "Raiox_01"]
+print(usuarios)
+
+print("------Buscar ------")
+print(usuarios.get("Well"))
+```
+> [!NOTE]
+> Perceba que o login é a chave do dicionário usuarios, depois temos os dois-pontos(:) e os dados da chave.
+No exemplo os dados são mais de um, então criamos um lista para armazenar esses dados.
 
 ---
 
