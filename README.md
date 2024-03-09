@@ -1,10 +1,13 @@
 <h1 align="center">
-    <a>🔗 Introduction to Python </a>
+    <a>🔗 Introduction to Python 🐍</a>
+	
 </h1>
 
-<h4 align="center"> 
-	🚧 Concluído  🚧
-</h4>
+> [!NOTE]
+>  Parte destas anotações é baseada no [curso online de Python da Faculdade FIAP](https://on.fiap.com.br/local/nanocourses/index.php)
+
+**Resumo:** Python é uma linguagem livre, multiparadigma, híbrida (compilada e interpretada), alto nível.
+Linguagem simples para aprender e muito utilizada no mundo de segurança da informação.
 
 ---
 ## 🏷️ Conteúdo
@@ -12,6 +15,11 @@
 - [Variaveis](#variaveis)
 - [Decisão](#decisao)
 - [Laço de repeticao](#laco-de-repeticao)
+- [Listas](#Listas)
+- [Funções](#funcoes)
+- [Módulos](#modulos)
+- [Dicionário](#dicionario)
+- [Tuplas](#tuplas)
 
 ---
 
@@ -46,7 +54,7 @@ Variaveis.py
 ### 📌Tomadas de decisão
   As decisões direcionam caso a condição testada é  `True` ou `False`. 
   
-  Veja o exemplo de um código para uma sala de emergêencia em um hospital:
+  Veja o exemplo de um código para uma sala de emergência em um hospital:
 
 
 ```python
@@ -84,4 +92,48 @@ Há decisões compostas, encadeadas para ver mais exemplos de códigos
 ---
 
 ### 📌Laços de repetições
+
 > Os laços de repetições servem para que uma ação seja repetida uma determinada ou indeterminada quantidade de vezes.
+
+- **WHILE** - parece com o `if`, porém com a diferença que executará o bloco de código inúmera vezes enquanto não for falsa.
+
+```python
+numero=int(input("Digite um numero: "))
+while numero<=100:
+ print("" + str(numero))
+ numero=numero+1
+print("Laço encerrado...")
+```
+
+- **FOR** - parece com o `if`, porém com a diferença que executará o bloco de código inúmera vezes enquanto não for falsa.
+
+```python
+# EXERCICIO DA TABUADA
+
+numero=int(input("Digite o numero: "))
+print("Tabuada do numero:  " , numero)
+
+for valor in range(1,11,1):
+    print(str(numero) + " x " + str(valor) + " = " + str(numero*valor))
+```
+
+- Para o laço FOR criamos um variável denominada `numero`;
+- em seguida uma função, o `range()` em que determina um faixa de valores a ser incrementada;
+- `range(1)` significa que variável iniciará com valor 1 em seguida até o valor que o usuário digitar;
+- por último ela será incrementada de 1 em 1.
+---
+
+## 🛠 Ferramentas
+- Python 3.12.1
+- IDE PyCharm
+  
+---
+
+## 📝 Autor
+
+Este projeto está sobre a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Cassia Xavier 
+👋🏽 Entre em contato!
+
+<a href="https://www.linkedin.com/in/c%C3%A1ssia-xavier-mendes-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>  
