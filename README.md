@@ -123,7 +123,7 @@ for valor in range(1,11,1):
 - por último ela será incrementada de 1 em 1.
 ---
 
-### 📌 Listas
+### 📌Listas
 
 > Listas são estrutura de dados que armazenam uma coleção ordenada de itens.
 Elas são:
