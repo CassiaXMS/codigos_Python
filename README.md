@@ -14,11 +14,12 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 
 - [Variáveis](#variáveis)
 - [Tomadas de decisão](#tomadas-de-decisão)
-- [Laços de repetições](#lacos-de-repeticoes)
+- [Laços de repetições](#laços-de-repeticoes)
 - [Listas](#listas)
-- [Funções](#funcoes)
-- [Módulos](#modulos)
-- [Dicionário](#dicionario)
+- [Funções](#funções)
+- [Dicionários](#dicionários)
+- [Manipulação de arquivos](#manipulação-de-arquivos)
+
 - [Tuplas](#tuplas)
 
 ---
