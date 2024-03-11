@@ -25,7 +25,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 
 # 📓 Meu aprendizado
 
-### 📌 Variáveis
+### 📌Variáveis
 > Variáveis são espaços  reservados  na  memória  do computador temporariamente para um determinado dado. 
 
 ```python
@@ -51,7 +51,7 @@ Variaveis.py
 ---
 
 
-### 📌 Tomadas de decisão
+### 📌Tomadas de decisão
   As decisões direcionam caso a condição testada é  `True` ou `False`. 
   
   Veja o exemplo de um código para uma sala de emergência em um hospital:
@@ -91,7 +91,7 @@ Há decisões compostas, encadeadas para ver mais exemplos de códigos
 
 ---
 
-### 📌 Laços de repetições
+### 📌Laços de repetições
 
 > Os laços de repetições servem para que uma ação seja repetida uma determinada ou indeterminada quantidade de vezes.
 
@@ -151,7 +151,7 @@ tornando o desempenho comprometido em comparação com outras estruturas de dado
 
 ---
 
-### 📌 Funções
+### 📌Funções
 
 > Umas das suas vantagens é o **reaproveitamento de código e a modularização**, basicamente resolvemos o problema em partes, cada tarefa uma função.
 
@@ -179,7 +179,7 @@ Em seguida crie um novo arquivo importando através dos comando `from` (local f�
 
 ---
 
-### 📌 Dicionários
+### 📌Dicionários
 
 **Quando utilizar a estrutura de dados Dicionários?**
 
@@ -219,7 +219,7 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 
 ---
 
-### 📌 Manipulação de arquivos
+### 📌Manipulação de arquivos
 
 | Modo | Descrição |
 | -- | -- |
