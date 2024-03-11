@@ -181,7 +181,7 @@ Em seguida crie um novo arquivo importando através dos comando `from` (local f�
 
 ### 📌 Dicionários
 
-**Quando utilizar a estrutura de dados de Dicionários?**
+**Quando utilizar a estrutura de dados Dicionários?**
 
 
  Dicionários armazenam objetos.
@@ -219,11 +219,48 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 
 ---
 
+### 📌 Manipulação de arquivos
+
+| Modo | Descrição |
+| -- | -- |
+| `w` | abrindo um arquivo de modo de escrita, caso o arquivo exista ele será sobrescrito. |
+| `r` | abrirá o arquivo somente no modo leitura |
+| `a` | ler e escrever além de ir adicionando conteúdo no arquivo |
+| `x` | criar um novo arquivo em modo exclusivo |
+
+Criando o primeiro arquivo:
+
+
+
+```python
+with open("teste.txt", "w") as arquivo:
+    arquivo.write("Nunca foi tão fácil criar um arquivo")
+
+with open("teste.txt", "a") as arquivo:
+    arquivo.write("\nContinuação do texto.")
+```
+
+
+**Comentários:**
+
+Utilizando o comando `WITH` o controle de encerramento ficará por conta dele
+sem precisar do método close().
+
+## Ficou curioso?
+
+Veja um exemplo prático de manipulação de arquivos (txt, json, csv, html) para gerir um inventário de ativos de uma rede.
+Veja também a manipulação de arquivos de terceiros
+
+---
 
 ## 🛠 Ferramentas
 - Python 3.12.1
 - IDE PyCharm
-  
+
+
+
+
+
 ---
 
 ## 📝 Autor
