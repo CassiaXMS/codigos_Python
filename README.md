@@ -12,9 +12,9 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 ---
 ## 🏷️ Conteúdo
 
-- [Variaveis](#variaveis)
-- [Decisão](#decisao)
-- [Laço de repeticao](#laco-de-repeticao)
+- [Variáveis](#variaveis)
+- [Tomadas de decisão](#tomadas-de-decisao)
+- [Laços de repetições](#lacos-de-repeticoes)
 - [Listas](#Listas)
 - [Funções](#funcoes)
 - [Módulos](#modulos)
