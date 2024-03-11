@@ -12,8 +12,8 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 ---
 ## 🏷️ Conteúdo
 
-- [Variáveis](#variaveis)
-- [Tomadas de decisão](#tomadas-de-decisao)
+- [Variáveis](#variáveis)
+- [Tomadas de decisão](#tomadas-de-decisão)
 - [Laços de repetições](#lacos-de-repeticoes)
 - [Listas](#listas)
 - [Funções](#funcoes)
@@ -179,7 +179,7 @@ Em seguida crie um novo arquivo importando através dos comando `from` (local f�
 
 ---
 
-### 📌Dicionários
+### 📌 Dicionários
 
 **Quando utilizar a estrutura de dados Dicionários?**
 
