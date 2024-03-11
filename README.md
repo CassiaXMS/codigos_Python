@@ -14,7 +14,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 
 - [Variáveis](#variáveis)
 - [Tomadas de decisão](#tomadas-de-decisão)
-- [Laços de repetições](#laços-de-repetiçoes)
+- [Laços de repetições](#laços-de-repetições)
 - [Listas](#listas)
 - [Funções](#funções)
 - [Dicionários](#dicionários)
@@ -92,7 +92,7 @@ Há decisões compostas, encadeadas para ver mais exemplos de códigos
 
 ---
 
-### 📌Laços de repetições
+### 📌 Laços de repetições
 
 > Os laços de repetições servem para que uma ação seja repetida uma determinada ou indeterminada quantidade de vezes.
 
