@@ -14,7 +14,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 
 - [Variáveis](#variáveis)
 - [Tomadas de decisão](#tomadas-de-decisão)
-- [Laços de repetições](#laços-de-repeticoes)
+- [Laços de repetições](#laços-de-repetiçoes)
 - [Listas](#listas)
 - [Funções](#funções)
 - [Dicionários](#dicionários)
@@ -220,7 +220,7 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 
 ---
 
-### 📌Manipulação de arquivos
+### 📌 Manipulação de arquivos
 
 | Modo | Descrição |
 | -- | -- |
