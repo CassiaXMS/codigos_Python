@@ -92,7 +92,7 @@ Há decisões compostas, encadeadas para ver mais exemplos de códigos
 
 ---
 
-### 📌 Laços de repetições
+### 📌Laços de repetições
 
 > Os laços de repetições servem para que uma ação seja repetida uma determinada ou indeterminada quantidade de vezes.
 
@@ -180,7 +180,7 @@ Em seguida crie um novo arquivo importando através dos comando `from` (local f�
 
 ---
 
-### 📌 Dicionários
+### 📌Dicionários
 
 **Quando utilizar a estrutura de dados Dicionários?**
 
@@ -220,7 +220,7 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 
 ---
 
-### 📌 Manipulação de arquivos
+### 📌Manipulação de arquivos
 
 | Modo | Descrição |
 | -- | -- |
