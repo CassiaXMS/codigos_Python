@@ -15,7 +15,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 - [Variáveis](#variaveis)
 - [Tomadas de decisão](#tomadas-de-decisao)
 - [Laços de repetições](#lacos-de-repeticoes)
-- [Listas](#Listas)
+- [Listas](#listas)
 - [Funções](#funcoes)
 - [Módulos](#modulos)
 - [Dicionário](#dicionario)
