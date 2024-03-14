@@ -18,9 +18,10 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 - [Listas](#listas)
 - [Funções](#funções)
 - [Dicionários](#dicionários)
+- [Tuplas](#tuplas)
 - [Manipulação de arquivos](#manipulação-de-arquivos)
 
-- [Tuplas](#tuplas)
+
 
 ---
 
@@ -220,7 +221,26 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 
 ---
 
+### 📌Tuplas
+> Também é uma Estrtura de Dados, porém com a diferença de não aceitar alteração sobre os dados já inseridos
+
+**Observações:** 
+
+Geralmente aplica Tuplas para realizar a leitura de uma resposta no Python;
+
+Pode ser utilizada como chave de um Dicionário;
+
+Utilizada para retornar múltiplos valores.
+
+---
+
 ### 📌Manipulação de arquivos
+
+> Quando precisamos armazenar dados de forma persistente para que possam ser recuperados 
+ mesmo após o fechamento e reabertura do sistema, os arquivos são uma opção comum 
+ e poderosa em muitas linguagens de programação, incluindo Python.
+ 
+Vejamosos modos de de abertura de arquivos:
 
 | Modo | Descrição |
 | -- | -- |
