@@ -240,11 +240,11 @@ Utilizada para retornar múltiplos valores.
  mesmo após o fechamento e reabertura do sistema, os arquivos são uma opção comum 
  e poderosa em muitas linguagens de programação, incluindo Python.
  
-Vejamosos modos de de abertura de arquivos:
+Vejamosos modos de abertura de arquivos:
 
 | Modo | Descrição |
 | -- | -- |
-| `w` | abrindo um arquivo de modo de escrita, caso o arquivo exista ele será sobrescrito. |
+| `w` | abrirá um arquivo de modo de escrita, caso o arquivo exista ele será sobrescrito. |
 | `r` | abrirá o arquivo somente no modo leitura |
 | `a` | ler e escrever além de ir adicionando conteúdo no arquivo |
 | `x` | criar um novo arquivo em modo exclusivo |
@@ -274,16 +274,52 @@ Veja também a manipulação de arquivos de terceiros
 
 ---
 
+
+### 📌Bibliotecas 
+
+Para utilizar pacotes externos no Python é preciso baixá-lo. `Pip install`
+
+- Geopy -  Converte um texto em coordenadas geográficas
+
+```python
+# Aplicação
+
+from geopy.geocoders import Nominatim
+geolocator = Nominatim(user_agent="wazeyes")
+
+latitude=float(input("Digite a latitude...: "))
+longitude=float(input("Digite a longitude.: "))
+
+resultado = str(geolocator.reverse(f"{latitude}, {longitude}")).split(",")
+if resultado[0]!='None':
+    print("Endereço completo.: ", resultado)
+    print("Dado 1............: ", resultado[0])
+    print("Dado 2............: ", resultado[1])
+    print("Dado 3............: ", resultado[2])
+
+
+
+Resultado:
+```python
+Digite a latitude...: -22.900829520814703
+Digite a longitude.:  -47.04478906756945
+Endereço completo.:  ['Rua Arthur Bernardes', ' Nova Campinas', ' Campinas', ' Região Imediata de Campinas', 
+' Região Metropolitana de Campinas', ' Região Geográfica Intermediária de Campinas', ' São Paulo', ' Região Sudeste', ' 13092-123', ' Brasil']
+Dado 1............:  Rua Arthur Bernardes
+Dado 2............:   Nova Campinas
+Dado 3............:   Campinas
+
+```
+
+- Biblioteca SOCKET: estabelece comunicação em uma rede de computadores.
+- Biblioteca ftplib: responsável pela manipulação do Protocolo de transferência de arquivos (FTP).
+- Pacote getpass: solicitar ao usuário a entrada de uma senha de forma segura.
+
+---
 ## 🛠 Ferramentas
 - Python 3.12.1
 - IDE PyCharm
-
-
-
-
-
 ---
-
 ## 📝 Autor
 
 Este projeto está sobre a licença [MIT](./LICENSE).
