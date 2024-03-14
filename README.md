@@ -277,9 +277,9 @@ Veja também a manipulação de arquivos de terceiros
 
 ### 📌Bibliotecas 
 
-Para utilizar pacotes externos no Python é preciso baixá-lo. `Pip install`
+Para utilizar pacotes externos no Python é preciso baixá-lo por meio do comando `pip install`.
 
-- Geopy -  Converte um texto em coordenadas geográficas
+- **Biblioteca Geopy** -  Converte um texto em coordenadas geográficas. Vejamos:
 
 ```python
 # Aplicação
@@ -297,9 +297,10 @@ if resultado[0]!='None':
     print("Dado 2............: ", resultado[1])
     print("Dado 3............: ", resultado[2])
 
+```
 
+**Resultado:**
 
-Resultado:
 ```python
 Digite a latitude...: -22.900829520814703
 Digite a longitude.:  -47.04478906756945
@@ -311,9 +312,9 @@ Dado 3............:   Campinas
 
 ```
 
-- Biblioteca SOCKET: estabelece comunicação em uma rede de computadores.
-- Biblioteca ftplib: responsável pela manipulação do Protocolo de transferência de arquivos (FTP).
-- Pacote getpass: solicitar ao usuário a entrada de uma senha de forma segura.
+- **Biblioteca SOCKET:** estabelece comunicação em uma rede de computadores.
+- **Biblioteca ftplib:** responsável pela manipulação do Protocolo de transferência de arquivos (FTP).
+- **Pacote getpass:** solicitar ao usuário a entrada de uma senha de forma segura.
 
 ---
 ## 🛠 Ferramentas
