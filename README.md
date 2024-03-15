@@ -4,12 +4,13 @@
 </h1>
 
 > [!NOTE]
->  Parte destas anotações é baseada no [curso online de Python da Faculdade FIAP](https://on.fiap.com.br/local/nanocourses/index.php)
+>  Parte destas anotações é baseada no [curso online de Python da Faculdade FIAP](https://on.fiap.com.br/)
 
 **Resumo:** Python é uma linguagem livre, multiparadigma, híbrida (compilada e interpretada), alto nível.
 Linguagem simples para aprender e muito utilizada no mundo de segurança da informação.
 
 ---
+
 ## 🏷️ Conteúdo
 
 - [Variáveis](#variáveis)
@@ -20,6 +21,7 @@ Linguagem simples para aprender e muito utilizada no mundo de segurança da info
 - [Dicionários](#dicionários)
 - [Tuplas](#tuplas)
 - [Manipulação de arquivos](#manipulação-de-arquivos)
+- [Bibliotecas](#bibliotecas)
 
 
 
@@ -54,9 +56,9 @@ Variaveis.py
 
 
 ### 📌Tomadas de decisão
-  As decisões direcionam caso a condição testada é  `True` ou `False`. 
+  As decisões direcionam caso a condição testada seja  `True` ou `False`. 
   
-  Veja o exemplo de um código para uma sala de emergência em um hospital:
+  Veja o exemplo de um mini programa para uma sala de emergência em um hospital:
 
 
 ```python
@@ -89,7 +91,7 @@ Variaveis.py
   O paciente Lucas NÃO possui atendimento prioritário e pode esperar na sala comum!
 ```
 
-Há decisões compostas, encadeadas para ver mais exemplos de códigos 
+Há decisões compostas, encadeadas para ver mais exemplos de códigos veja os diretórios.
 
 ---
 
@@ -121,8 +123,9 @@ for valor in range(1,11,1):
 
 - Para o laço FOR criamos um variável denominada `numero`;
 - em seguida uma função, o `range()` em que determina um faixa de valores a ser incrementada;
-- `range(1)` significa que variável iniciará com valor 1 em seguida até o valor que o usuário digitar;
+- `range(1)` significa que variável iniciará com valor 1, em seguida até o valor que o usuário digitar;
 - por último ela será incrementada de 1 em 1.
+  
 ---
 
 ### 📌Listas
@@ -177,7 +180,7 @@ O próximo passo é chamar as funções. Você pode criar um Python Package no P
 Em seguida crie um novo arquivo importando através dos comando `from` (local físico das funções) `import *` (importar todas as funções).
 
 > [!TIP]
-> Ficou com alguma dúvida veja esses exemplos.
+> Ficou com alguma dúvida veja os exemplos.
 
 ---
 
@@ -222,7 +225,8 @@ No exemplo os dados são mais de um, então criamos um lista para armazenar esse
 ---
 
 ### 📌Tuplas
-> Também é uma Estrtura de Dados, porém com a diferença de não aceitar alteração sobre os dados já inseridos
+
+> Também é uma Estrtura de Dados, porém com a diferença de não aceitar alteração sobre os dados já inseridos.
 
 **Observações:** 
 
@@ -312,15 +316,19 @@ Dado 3............:   Campinas
 
 ```
 
-- **Biblioteca SOCKET:** estabelece comunicação em uma rede de computadores.
-- **Biblioteca ftplib:** responsável pela manipulação do Protocolo de transferência de arquivos (FTP).
-- **Pacote getpass:** solicitar ao usuário a entrada de uma senha de forma segura.
+
+- `Biblioteca SOCKET`: estabelece comunicação em uma rede de computadores.
+- `Biblioteca ftplib`: responsável pela manipulação do Protocolo de transferência de arquivos (FTP).
+- `Pacote getpass`: solicitar ao usuário a entrada de uma senha de forma segura.
+- `Biblioteca Serial`: realiza a comunicação serial com dispositivos externos (por exemplo, Arduino) por meio de portas seriais.
 
 ---
+
 ## 🛠 Ferramentas
 - Python 3.12.1
 - IDE PyCharm
 ---
+
 ## 📝 Autor
 
 Este projeto está sobre a licença [MIT](./LICENSE).
