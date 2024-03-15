@@ -237,6 +237,7 @@ Pode ser utilizada como chave de um Dicionário;
 Utilizada para retornar múltiplos valores.
 
 Exercício de [Tuplas](https://github.com/CassiaXMS/codigos_Python/tree/master/Dicionarios)
+
 ---
 
 ### 📌Manipulação de arquivos
@@ -275,7 +276,7 @@ sem precisar do método close().
 ## Ficou curioso?
 
 Veja um exemplo prático de manipulação de arquivos (txt, json, csv, html) para gerir um inventário de ativos de uma rede.
-Veja também a manipulação de arquivos de terceiros
+Veja também a manipulação de arquivos de terceiros [Manipulação de Arquivos](https://github.com/CassiaXMS/codigos_Python/tree/master/Manipulacao_arquivos)
 
 ---
 
@@ -316,6 +317,7 @@ Dado 2............:   Nova Campinas
 Dado 3............:   Campinas
 
 ```
+Programa [Wazeyes](https://github.com/CassiaXMS/codigos_Python/tree/master/Wazeyes)
 
 
 - `Biblioteca SOCKET`: estabelece comunicação em uma rede de computadores.
