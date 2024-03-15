@@ -1,0 +1,11 @@
+03 : ['FER3653', 'Fernando', '14/05/2023', '14:8', 'sala4', 'ALUNO']
+03 : ['FER3653', 'Fernando', '14/05/2023', '14:8', 'sala4', 'ALUNO']
+
+03 : ['FER3653', 'Fernando', '14/05/2023', '14:8', 'sala4', 'ALUNO']
+
+01 : ['LUCAS', 'LUCAS', '12/122023', '12:45', 'SALA2', 'USER']
+
+01 : ['LUCAS', 'LUCAS', '12/122023', '12:45', 'SALA2', 'USER']
+
+02 : ['UZIAS', 'Uzias', '14/1/2023', '14:15', 'sala2', 'USER']
+

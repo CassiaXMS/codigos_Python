@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="106be15a-5051-4638-b3d8-9c86f94b2e86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProjectAula1CursoFIAP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dicionarios/DicionarioExemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dicionarios/ManagerUsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dicionarios/Tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dicionarios/TuplaEnumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FTP/FTP_ASCII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FTP/FTP_Binario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FTP/FTP_Interativo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FTP/Protocolo_FTP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes/Funcoes_Arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes/Funcoes_Dicionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes/Funcoes_JSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes_modulos/FuncoesComListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcoes_modulos/ModuloPrincipal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/CriandoListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/ListasDentroDeListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Listas/Listas_Buscas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/ArquivoHTML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/Boston.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/Inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/LeituraArquivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/Ler_linhaPorLinha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/economic-indicators.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/manipular_JSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Manipulacao_arquivos/primeiroArquivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repeticoes/Decisao_FOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repeticoes/Decisao_WHILE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serial_IoT/1_Pacote_Serial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Serial_IoT/2_Enviar_Dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema_operacional/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema_operacional/RecuperandoDados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema_operacional/Usuario_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema_operacional/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Cliente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Cliente_UDP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Portas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Servidor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Servidor_UDP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/Socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Var/variaveis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wazeyes/Converter_geolocalizacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wazeyes/Geolocalizacao_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wazeyes/Geolocalizacao_reversa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wazeyes/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bljazS7bnQ3qg5RF10ZO21Lmsu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1_Pacote_Serial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArquivoHTML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Boston.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cliente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cliente_UDP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Converter_geolocalizacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CriandoListas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DecisaoEncadeada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao_ELIF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao_FOR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao_IF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decisao_WHILE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio_decisaoEncadeada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DicionarioExemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FTP_ASCII.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FTP_Binario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FTP_Interativo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Geolocalizacao_plus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Geolocalizacao_reversa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inventario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LeituraArquivo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ler_linhaPorLinha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListasDentroDeListas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas_Buscas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ManagerUsers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModuloPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Portas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Protocolo_FTP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RecuperandoDados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Servidor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Servidor_UDP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Socket.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TuplaEnumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Usuario_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manipular_JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primeiroArquivo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variaveis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CLIENTE\PycharmProjects\pythonProjectAula1CursoFIAP\FTP" />
+      <recent name="C:\Users\CLIENTE\PycharmProjects\pythonProjectAula1CursoFIAP\Socket" />
+      <recent name="C:\Users\CLIENTE\PycharmProjects\pythonProjectAula1CursoFIAP\Manipulacao_arquivos" />
+      <recent name="C:\Users\CLIENTE\PycharmProjects\pythonProjectAula1CursoFIAP\Funcoes" />
+      <recent name="C:\Users\CLIENTE\PycharmProjects\pythonProjectAula1CursoFIAP\Funcoes_modulos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Geolocalizacao_reversa">
+    <configuration name="1_Pacote_Serial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Serial_IoT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Serial_IoT/1_Pacote_Serial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cliente_UDP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Socket/Cliente_UDP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decisao_ELIF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Decisoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decisoes/Decisao_ELIF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Decisao_IF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Decisoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decisoes/Decisao_IF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Geolocalizacao_reversa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Wazeyes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Wazeyes/Geolocalizacao_reversa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variaveis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProjectAula1CursoFIAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Var" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Var/variaveis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.variaveis" />
+      <item itemvalue="Python.Geolocalizacao_reversa" />
+      <item itemvalue="Python.Decisao_ELIF" />
+      <item itemvalue="Python.Decisao_IF" />
+      <item itemvalue="Python.1_Pacote_Serial" />
+      <item itemvalue="Python.Cliente_UDP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Geolocalizacao_reversa" />
+        <item itemvalue="Python.Decisao_IF" />
+        <item itemvalue="Python.Decisao_ELIF" />
+        <item itemvalue="Python.1_Pacote_Serial" />
+        <item itemvalue="Python.Cliente_UDP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="106be15a-5051-4638-b3d8-9c86f94b2e86" name="Changes" comment="" />
+      <created>1706796632283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706796632283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Repeticoes/Decisao_FOR.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
