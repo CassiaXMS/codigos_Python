@@ -149,7 +149,7 @@ lista_dinamica = [input("Digite o usuário: "), bool(int(input("Está logado? ")
 lista_vazia=[]
 ```
 > [!TIP]
-> Quer mais exemplos de exercícios? Veja aqui!
+> Quer mais exemplos de exercícios? [Veja aqui](https://github.com/CassiaXMS/codigos_Python/tree/master/Listas)
 
 A lista pode tornar ineficiente para operações de buscas, pois terá que percorrer todos os elementos (foreach)
 tornando o desempenho comprometido em comparação com outras estruturas de dados como os dicionários (veremos à frente).
@@ -180,7 +180,7 @@ O próximo passo é chamar as funções. Você pode criar um Python Package no P
 Em seguida crie um novo arquivo importando através dos comando `from` (local físico das funções) `import *` (importar todas as funções).
 
 > [!TIP]
-> Ficou com alguma dúvida veja os exemplos.
+> Ficou com alguma dúvida veja os [exemplos](https://github.com/CassiaXMS/codigos_Python/tree/master/Funcoes_modulos)
 
 ---
 
@@ -236,6 +236,7 @@ Pode ser utilizada como chave de um Dicionário;
 
 Utilizada para retornar múltiplos valores.
 
+Exercício de [Tuplas](https://github.com/CassiaXMS/codigos_Python/tree/master/Dicionarios)
 ---
 
 ### 📌Manipulação de arquivos
