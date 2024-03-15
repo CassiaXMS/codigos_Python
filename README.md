@@ -91,7 +91,7 @@ Variaveis.py
   O paciente Lucas NÃO possui atendimento prioritário e pode esperar na sala comum!
 ```
 
-Há decisões compostas, encadeadas para ver mais exemplos de códigos veja os diretórios.
+Há decisões compostas, encadeadas para ver mais exemplos de códigos [Clique aqui](https://github.com/CassiaXMS/codigos_Python/tree/master/Decisoes)
 
 ---
 
