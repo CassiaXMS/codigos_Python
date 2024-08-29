@@ -6,8 +6,8 @@
 > [!NOTE]
 >  Parte destas anotações é baseada no [curso online de Python da Faculdade FIAP](https://on.fiap.com.br/)
 
-**Resumo:** Python é uma linguagem livre, multiparadigma, híbrida (compilada e interpretada), alto nível.
-Linguagem simples para aprender e muito utilizada no mundo de segurança da informação.
+**Resumo:** Python é uma linguagem livre, multiparadigma, híbrida (compilada e interpretada) e de alto nível.
+Linguagem simples, muito utilizada atualmente com finalidade em diversas áreas.
 
 ---
 
